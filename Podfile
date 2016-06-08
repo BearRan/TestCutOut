@@ -5,7 +5,7 @@
 
 target 'TestCutOut' do
 
-pod	'BearSkill'
+pod	'BearSkill',    '0.1.0'
 
 end
 
