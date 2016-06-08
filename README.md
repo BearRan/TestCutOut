@@ -92,3 +92,4 @@ BearCutOutView *cutOutView_2 = [[BearCutOutView alloc] initWithFrame:CGRectMake(
 ```
 
 原创文章，欢迎提出意见或者建议。联系QQ：648070256
+本文博客地址：http://blog.csdn.net/xiongbaoxr/article/details/51614439
