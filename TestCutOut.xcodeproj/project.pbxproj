@@ -13,7 +13,6 @@
 		1844C18B1D070AE0006B5C2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1844C1891D070AE0006B5C2F /* Main.storyboard */; };
 		1844C18D1D070AE0006B5C2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1844C18C1D070AE0006B5C2F /* Assets.xcassets */; };
 		1844C1901D070AE0006B5C2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1844C18E1D070AE0006B5C2F /* LaunchScreen.storyboard */; };
-		1844C19C1D070B8E006B5C2F /* BearCutOutView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1844C19B1D070B8E006B5C2F /* BearCutOutView.m */; };
 		2E4E827DCB2DACDE892292C6 /* libPods-TestCutOut.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 05AA9EC24DCCF4D805BA18E8 /* libPods-TestCutOut.a */; };
 /* End PBXBuildFile section */
 
@@ -29,8 +28,6 @@
 		1844C18C1D070AE0006B5C2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1844C18F1D070AE0006B5C2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1844C1911D070AE0006B5C2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1844C19A1D070B8E006B5C2F /* BearCutOutView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BearCutOutView.h; sourceTree = "<group>"; };
-		1844C19B1D070B8E006B5C2F /* BearCutOutView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BearCutOutView.m; sourceTree = "<group>"; };
 		59F55F4DA5C23821023C654B /* Pods-TestCutOut.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestCutOut.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestCutOut/Pods-TestCutOut.debug.xcconfig"; sourceTree = "<group>"; };
 		B5471D6ADC3A9EB4A373BBFC /* Pods-TestCutOut.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestCutOut.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestCutOut/Pods-TestCutOut.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -72,8 +69,6 @@
 				1844C1841D070AE0006B5C2F /* AppDelegate.m */,
 				1844C1861D070AE0006B5C2F /* ViewController.h */,
 				1844C1871D070AE0006B5C2F /* ViewController.m */,
-				1844C19A1D070B8E006B5C2F /* BearCutOutView.h */,
-				1844C19B1D070B8E006B5C2F /* BearCutOutView.m */,
 				1844C1891D070AE0006B5C2F /* Main.storyboard */,
 				1844C18C1D070AE0006B5C2F /* Assets.xcassets */,
 				1844C18E1D070AE0006B5C2F /* LaunchScreen.storyboard */,
@@ -231,7 +226,6 @@
 			files = (
 				1844C1881D070AE0006B5C2F /* ViewController.m in Sources */,
 				1844C1851D070AE0006B5C2F /* AppDelegate.m in Sources */,
-				1844C19C1D070B8E006B5C2F /* BearCutOutView.m in Sources */,
 				1844C1821D070AE0006B5C2F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
