@@ -1,0 +1,2 @@
+# TestCutOut
+BearSkill中BearCutOutView挖空UIView的方法演示
